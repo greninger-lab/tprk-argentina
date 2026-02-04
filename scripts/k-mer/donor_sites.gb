@@ -1,0 +1,1780 @@
+LOCUS       tprKds1__var01          4075 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...mh-jxsklcy
+VERSION     urn.local...mh-jxsklcy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V4              complement(121..171)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS47"
+     V5              complement(187..245)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS46"
+     V2              complement(246..292)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS45"
+     V6              complement(271..294)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS44"
+     V3              complement(305..347)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS43"
+     V6              complement(360..441)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS42"
+     V3              complement(373..393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS48"
+     V3              complement(448..491)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS41"
+     V6              complement(455..519)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS40"
+     V7              complement(676..719)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS39"
+     V2              complement(737..786)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS38"
+     V1              complement(822..868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS37"
+     V4              complement(883..931)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS36"
+     V5              complement(938..983)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS35"
+     V3              complement(1067..1092)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS34"
+     V6              complement(1068..1103)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS33"
+     V3              complement(1109..1141)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS32"
+     V6              complement(1115..1142)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS49"
+     V7              complement(1171..1283)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS31"
+     V2              complement(1314..1359)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS30"
+     V1              complement(1400..1444)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS29"
+     V5              complement(1448..1500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS28"
+     V7              complement(1503..1532)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS27"
+     V3              complement(2277..2318)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS26"
+     V6              complement(2303..2356)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS25"
+     V3              complement(2376..2455)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS24"
+     V6              complement(2378..2431)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS52"
+     V6              complement(2478..2516)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS23"
+     V3              complement(2483..2516)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS50"
+     V7              complement(2576..2589)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS22"
+     V2              complement(2650..2709)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS21"
+     V1              complement(2746..2789)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS20"
+     V5              complement(2850..2868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS54"
+     V6              complement(2888..2959)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS19"
+     V3              complement(2970..3015)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS18"
+     V6              complement(2973..3026)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS53"
+     V7              complement(3074..3135)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS17"
+     V2              complement(3137..3190)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS16"
+     V1              complement(3203..3237)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS15"
+     V4              complement(3282..3323)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS14"
+     V5              complement(3333..3393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS13"
+     V3              complement(3410..3452)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS12"
+     V6              complement(3434..3487)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS11"
+     V3              complement(3498..3551)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS10"
+     V6              complement(3501..3551)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS51"
+     V7              complement(3609..3683)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS9"
+     V2              complement(3684..3739)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS8"
+     V1              complement(3783..3820)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS7"
+     V4              complement(3865..3907)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS6"
+     V5              complement(3919..3990)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS5"
+     V6              complement(4003..4035)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS4"
+     V3              complement(4005..4052)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS3"
+ORIGIN      
+        1 accccgctcc aacgccgatc ctcttacgcg tctcgtcgag gacctactcc attctacccc
+       61 cccccacggc tgtttgtcga acccttttta aagggttcgt tctcgcgcgc tgggcagcac
+      121 gcgcgtgagg cgcctatgcc atcgggagct gcgtttttct tatgccccac gaggggactg
+      181 cggggtatgt cgtgcgtccg catgggtgtg gtatcggtga gaaagacacc ctgaaataca
+      241 ttactagcct gcgatgcgtg caagacaccc ccatacaccg ggaagttgat gtcgactcca
+      301 gccccggctg cggctgcggc tcgggcatag tcgccagaaa gcgtggaatt gtaactacaa
+      361 ccgggaagta gatggctggg actggggctc cgggcagggc tcgggcttgg gtgaaggcgt
+      421 tccaatggac gggcatgtac gcctgcgtcc cataagatgt cattggctgg ggctacggct
+      481 gggagttggg ctcgggctgc gaagtaatag acgggcatgc cgttctctac caaatcaagc
+      541 gacatgcccc tacgaattgc caacgctccg tcacgttctt ctctatcact acattgctgt
+      601 tctcttgtag cttgccttgc tcccagctca gccgaatctc caccttctct aacggactga
+      661 ccactacccc acactcgtaa tacccacaat attctgcctt ccacttcgta gcaggagcat
+      721 agcgtgcaaa cgcggcgctg tggtttcttc ctgctcgggc ggcgcccgtg tttgacttgc
+      781 cctccccgtc agggtggaat tgcgtctttt gcgcgcggct ttccatgctt gaggtttccg
+      841 gcgctaccat cttcggatgc aatgccccgc gcgccggcgc tcacggtgcc attgacgttc
+      901 gctgcattct ctttcttatg ccccacgtct gactgcgcag tcgtgctgca gcatgttatt
+      961 ggtgagaaat actcccccga atatacgcgc acggtggtga ctgaccggac tctcgtgcga
+     1021 aggagagtag gagtctaaaa tcttatcagg ggctccgggt gggactccgg ctgccagggc
+     1081 tcgggcttgg gcgtggacgg gcacgcaacc cataagatgt tggctggggg ttgggctggg
+     1141 ggaaatagac gtgcggcgtg cgttggggcg atacccacaa tatcctgcct tccacttcgt
+     1201 aagagcagca gcaccaggaa ctgcaccagg gaccgcccca ggaactgcac caggagcagc
+     1261 atcgtttttc ttgttcgtac cgcgcctgtg tgcctttgtg cgcgcagcgc gtccctgctg
+     1321 ctggggcgcc cgtgtttgac ttgccctccc agtcggtgtg aggcaggccg cgtctatccc
+     1381 tcagtgcgca tgtcctccct gcttgagggg ttgggcgcca ccattttcat atgcaatgcc
+     1441 ccagatgcag tcgtccttct gcatgggtgt ggtgagaaag acaccctgaa atacattgct
+     1501 ctacttcgta ccaggaactg cagcagcagg gggaacaggg acaccctggg tgaaaagact
+     1561 gcaccatgct aggatgggga atggatatgt ccaaaagtgt gatgctgtgt tgcctgttga
+     1621 gtgtacaacc ctgttatgcc gggtacgtgt ttgtttcccc aaagcttggc gtgtatggag
+     1681 aagcattggg cggtcctgac acggtgggta aagcggtcaa gcaggccgac ggtactaaga
+     1741 ttgctccgaa gatatggtac tacgcgccgc gtaccccgct ttttggcgtg gatataggct
+     1801 atcaggcgga taacggcctg ttgttccggg tgaatttgga tgcggcactc acgcgcctta
+     1861 tgtttcgcag ccagtgtgtg gtgggctatt ccttgcggtt cggctggggg ggggtacgtc
+     1921 tctatcgctt cgggaatcga gtgtagtgca acggtcgatg acgcgcagta cgagccctac
+     1981 acgaaaaatg agcaggggac tactgttgcc tccaacaccg tgttcccgtg cacggtcttg
+     2041 gaggcattgg tgcgtgatcc ggcccttacc gcagattacc tgctttacgg tatgcaaagc
+     2101 tgttacgcaa ttccgctcca tgtgggggtt tcgtattacc ttgccaagcg ctggggtatt
+     2161 gagtgtgcgc ttacggcctc acttggcatt tcaatgcgga cggatgtgcg cgtcccctac
+     2221 gcggtacgca tagggccggt attccgcgtg tagggcctcc ggtgagccgc tctccttccc
+     2281 ataagatggc gttgttggct ggggctgggg gtcgggctcg ggccagggct ttccaatgga
+     2341 cgggcatgta cgtacggtcc tatggaactt cgttgtgggc tgcggctccg ggtagggctg
+     2401 ggactccggc tgcggctccg gctgcttggg catagccgct agacagtgtg gagttcctcc
+     2461 gggcgactgc gagccgagaa gtagatgtca actcgggctg ggggtacggc tcgggcgtgg
+     2521 aacgaggttt tttgtgtgag ggggatgtgc gcgcgtgtct tgttcctgcc tcccacttcg
+     2581 taagagcagg aaccgcacca gggacgacgc cggggaccgc agcagcttgc ttgttcgtac
+     2641 cgccgtacgt gctgggggtt actcctgctg ggacgttgcc gtttggtttg ccctcccagt
+     2701 cggtgttagg ggggctgcgc ctagctccag tgcacgcgtc ctccctgctt gaggggttgg
+     2761 gcgccaccat ttttttcaga tgcaatgccc cgtgaggttt gcgcagtcgt gctctcgcat
+     2821 ggctatgttt ctagcgagaa atactccctc gaatacattg ctggccttcg atgcgggcgg
+     2881 acgtcccaca ccgggaagtg gatgtcggct ggggctcggg cgtgggcttt taggactttg
+     2941 taatggacag gcatgtacgc ctgcgtccta taagatgtcg tcggctgcgg ctggcactgc
+     3001 ggctccggct cgggctcggg cgtggaacga ggttttttgt gtgaagggga tgtgcgcgcg
+     3061 tgtcctgttc ttgtgctcca cttcgtacca ggagcagggg ctgcagcagc agcttttttg
+     3121 ttcgtaccgc cgtacgtgct gtggtttgct cctgcttgga cgacgccctt gctgtctttg
+     3181 ccctcccagt gcgcaccttc cctgcttgat ggcgccacca tcggatgcaa tgcccccgac
+     3241 acgtctgaga agctaaacga gcctccacat tcacgcagtc cgcgcctacg gtgccctgcg
+     3301 ctccgtcttt cttacgcccc acgaggctgg cgcagtcgtg tgcggtcatg gccatgttga
+     3361 gaaatactcc ctgaaataca ttgctggcct gcgatgtgcg tgaggcatcc ccataccggg
+     3421 aagttgatgt tggctgcggc tggggcttgg ggtccggtca ggaccgtgta gtggacgggc
+     3481 atgtacgcct gcatcctata agatgtcgtt gttgactgcg gctgcggctg cggctgcggg
+     3541 tagggctcgg gttttctgag tagacgaggg ttcgtacgtt cgtcttattt ccgcgcgggc
+     3601 atactcagca atattctgcc ttccacttcg taggagcagc aggagcagca gggggcgtgg
+     3661 cctttttgtt cgtaccgccg tacgtgctgg gagttcctgc tggggccttg ccctgactgt
+     3721 ctttgccctc ccagtcggta tgaggcaggt cgcgtctgtc ccttaatgtg tgcctccttg
+     3781 cctgagggct ccggcgccac cagtttcaga tgcaatgccc acggcatcgc ctgagaggct
+     3841 gaacgggtct ccacactcac acagtctgcg cctatgtcgc cattcgctcc gtttttctta
+     3901 tgccccatgg agcgtgcgca gtcgtgcgtc tgcatgtcca tggcattggt gagaaagacg
+     3961 tctttaaaca cattgctggc cttcgatgcg ggcggacgtc ccacaccggg aagttgatgt
+     4021 cggctccggc tcgggctgtg gcatagccgc taacgcacgg ggagtgcacg cgctt
+//
+LOCUS       tprKds1__var02          4024 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...mb-jxsklcy
+VERSION     urn.local...mb-jxsklcy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V4              complement(121..171)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS47"
+     V5              complement(187..245)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS46"
+     V2              complement(246..292)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS45"
+     V6              complement(271..294)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS44"
+     V3              complement(305..347)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS43"
+     V6              complement(360..441)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS42"
+     V3              complement(373..393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS48"
+     V3              complement(448..491)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS41"
+     V6              complement(455..519)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS40"
+     V7              complement(676..719)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS39"
+     V2              complement(737..786)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS38"
+     V1              complement(822..868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS37"
+     V4              complement(883..931)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS36"
+     V5              complement(938..983)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS35"
+     V3              complement(1067..1092)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS34"
+     V6              complement(1068..1103)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS33"
+     V3              complement(1109..1141)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS32"
+     V6              complement(1115..1142)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS49"
+     V7              complement(1171..1232)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS31"
+     V2              complement(1263..1308)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS30"
+     V1              complement(1349..1393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS29"
+     V5              complement(1397..1449)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS28"
+     V7              complement(1452..1481)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS27"
+     V3              complement(2226..2267)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS26"
+     V6              complement(2252..2305)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS25"
+     V3              complement(2325..2404)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS24"
+     V6              complement(2327..2380)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS52"
+     V6              complement(2427..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS23"
+     V3              complement(2432..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS50"
+     V7              complement(2525..2538)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS22"
+     V2              complement(2599..2658)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS21"
+     V1              complement(2695..2738)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS20"
+     V5              complement(2799..2817)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS54"
+     V6              complement(2837..2908)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS19"
+     V3              complement(2919..2964)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS18"
+     V6              complement(2922..2975)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS53"
+     V7              complement(3023..3084)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS17"
+     V2              complement(3086..3139)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS16"
+     V1              complement(3152..3186)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS15"
+     V4              complement(3231..3272)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS14"
+     V5              complement(3282..3342)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS13"
+     V3              complement(3359..3401)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS12"
+     V6              complement(3383..3436)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS11"
+     V3              complement(3447..3500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS10"
+     V6              complement(3450..3500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS51"
+     V7              complement(3558..3632)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS9"
+     V2              complement(3633..3688)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS8"
+     V1              complement(3732..3769)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS7"
+     V4              complement(3814..3856)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS6"
+     V5              complement(3868..3939)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS5"
+     V6              complement(3952..3984)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS4"
+     V3              complement(3954..4001)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS3"
+ORIGIN      
+        1 accccgctcc aacgccgatc ctcttacgcg tctcgtcgag gacctactcc attctacccc
+       61 cccccacggc tgtttgtcga acccttttta aagggttcgt tctcgcgcgc tgggcagcac
+      121 gcgcgtgagg cgcctatgcc atcgggagct gcgtttttct tatgccccac gaggggactg
+      181 cggggtatgt cgtgcgtccg catgggtgtg gtatcggtga gaaagacacc ctgaaataca
+      241 ttactagcct gcgatgcgtg caagacaccc ccatacaccg ggaagttgat gtcgactcca
+      301 gccccggctg cggctgcggc tcgggcatag tcgccagaaa gcgtggaatt gtaactacaa
+      361 ccgggaagta gatggctggg actggggctc cgggcagggc tcgggcttgg gtgaaggcgt
+      421 tccaatggac gggcatgtac gcctgcgtcc cataagatgt cattggctgg ggctacggct
+      481 gggagttggg ctcgggctgc gaagtaatag acgggcatgc cgttctctac caaatcaagc
+      541 gacatgcccc tacgaattgc caacgctccg tcacgttctt ctctatcact acattgctgt
+      601 tctcttgtag cttgccttgc tcccagctca gccgaatctc caccttctct aacggactga
+      661 ccactacccc acactcgtaa tacccacaat attctgcctt ccacttcgta gcaggagcat
+      721 agcgtgcaaa cgcggcgctg tggtttcttc ctgctcgggc ggcgcccgtg tttgacttgc
+      781 cctccccgtc agggtggaat tgcgtctttt gcgcgcggct ttccatgctt gaggtttccg
+      841 gcgctaccat cttcggatgc aatgccccgc gtgccggcgc tcacggtgcc attgacgttc
+      901 gctgcattct ctttcttatg ccccacgtct gactgcgcag tcgtgctgca gcatgttatt
+      961 ggtgagaaat actcccccga atatacgcgc acggtggtga ctgaccggac tctcgtgcga
+     1021 aggagagtag gagtctaaaa tcttatcagg ggctccgggt gggactccgg ctgccagggc
+     1081 tcgggcttgg gcgtggacgg gcacgcaacc cataagatgt tggctggggg ttgggctggg
+     1141 ggaaatagac gtgcggcgtg cgttggggcg atacccacaa tatcctgcct tccacttcgt
+     1201 aggagcagca tcgtttttct tgttcgtacc gcgcctgtgt gcgtttgtgc gcgcagcgcg
+     1261 tccctgctgc tggggcgccc gtgtttgact tgccctccca gtcggtgtga ggcaggccgc
+     1321 gtctatccct cagtgcgcat gtcctccctg cttgaggggt tgggcgccac cattttcata
+     1381 tgcaatgccc cagatgcagt cgtccttctg catgggtgtg gtgagaaaga caccctgaaa
+     1441 tacattgctc tacttcgtac caggaactgc agcagcaggg ggaacaggga caccctgggt
+     1501 gaaaagactg caccatgcta ggatggggaa tggatatgtc caaaagtgtg atgctgtgtt
+     1561 gcctgttgag tgtacaaccc tgttatgccg ggtacgtgtt tgtttcccca aagcttggcg
+     1621 tgtatggaga agcattgggc ggtcctgaca cggtgggtaa agcggtcaag caggccgacg
+     1681 gtactaagat tgctccgaag atatggtact acgcgccgcg taccccgctt tttggcgtgg
+     1741 atataggcta tcaggcggat aacggcctgt tgttccgggt gaatttggat gcggcactca
+     1801 cgcgccttat gtttcgcagc cagtgtgtgg tgggctattc cttgcggttc ggctgggggg
+     1861 gggtacgtct ctatcgcttc gggaatcgag tgtagtgcaa cggtcgatga cgcgcagtac
+     1921 gagccctaca cgaaaaatga gcaggggact actgttgcct ccaacaccgt gttcccgtgc
+     1981 acggtcttgg aggcattggt gcgtgatccg gcccttaccg cagattacct gctttacggt
+     2041 atgcaaagct gttacgcaat tccgctccat gtgggggttt cgtattacct tgccaagcgc
+     2101 tggggtattg agtgtgcgct tacggcctca cttggcattt caatgcggac ggatgtgcgc
+     2161 gtcccctacg cggtacgcat agggccggta ttccgcgtgt agggcctccg gtgagccgct
+     2221 ctccttccca taagatggcg ttgttggctg gggctggggc tggggctggg gctggggctt
+     2281 tccaatggac gggcatgtac gtacggtcct atggaacttc gttgtgggct gcggctccgg
+     2341 gtagggctgg gactccggct gcggctccgg ctgcttgggc atagccgcta gacagtgtgg
+     2401 agttcctccg ggcgactgcg agccgagaag tagatgtcaa ctcgggctgg gggtacggct
+     2461 cgggcgtgga acgaggtttt ttgtgtgagg gggatgtgcg cgcgtgtctt gttcctgcct
+     2521 cccacttcgt aagagcagga accgcaccag ggacgacgcc ggggaccgca gcagcttgct
+     2581 tgttcgtacc gccgtacgtg ctgggggtta ctcctgctgg gacgttgccg tttggtttgc
+     2641 cctcccagtc ggtgttaggg gggctgcgcc tagctccagt gcacgcgtcc tccctgcttg
+     2701 aggggttggg cgccaccatt tttttcagat gcaatgcccc gtgaggtttg cgcagtcgtg
+     2761 ctctcgcatg gctatgtttc tagcgagaaa tactccctcg aatacattgc tggccttcga
+     2821 tgcgggcgga cgtcccacac cgggaagtgg atgtcggctg gggctcgggc gtgggctttt
+     2881 aggactttgt aatggacagg catgtacgcc tgcgtcctat aagatgtcgt cggctgcggc
+     2941 tggcactgcg gctccggctc gggctcgggc gtggaacgag gttttttgtg tgaaggggat
+     3001 gtgcgcgcgt gtcctgttct tgtgctccac ttcgtaccag gagcaggggc tgcagcagca
+     3061 gcttttttgt tcgtaccgcc gtacgtgctg tggtttgctc ctgcttggac gacgcccttg
+     3121 ctgtctttgc cctcccagtg cgcaccttcc ctgcttgatg gcgccaccat cggatgcaat
+     3181 gcccccgaca cgtctgagaa gctaaacgag cctccacatt cacgcagtcc gcgcctacgg
+     3241 tgccctgcgc tccgtctttc ttacgcccca cgaggctggc gcagtcgtgt gcggtcatgg
+     3301 ccatgttgag aaatactccc tgaaatacat tgctggcctg cgatgtgcgt gaggcatccc
+     3361 cataccggga agttgatgtt ggctgcggct ggggcttggg gtccggtcag gaccgtgtag
+     3421 tggacgggca tgtacgcctg catcctataa gatgtcgttg ttgactgcgg ctgcggctgc
+     3481 ggctgcgggt agggctcggg ttttctgagt agacgagggt tcgtacgttc gtcttatttc
+     3541 cgcgcgggca tactcagcaa tattctgcct tccacttcgt aggagcagca ggagcagcag
+     3601 ggggcgtggc ctttttgttc gtaccgccgt acgtgctggg agttcctgct ggggccttgc
+     3661 cctgactgtc tttgccctcc cagtcggtat gaggcaggtc gcgtctgtcc cttaatgtgt
+     3721 gcctccttgc ctgagggctc cggcgccacc agtttcagat gcaatgccca cggcatcgcc
+     3781 tgagaggctg aacgggtctc cacactcaca cagtctgcgc ctatgtcgcc attcgctccg
+     3841 tttttcttat gccccatgga gcgtgcgcag tcgtgcgtct gcatgtccat ggcattggtg
+     3901 agaaagacgt ctttaaacac attgctggcc ttcgatgcgg gcggacgtcc cacaccggga
+     3961 agttgatgtc ggctccggct cgggctgtgg catagccgct aacgcacggg gagtgcacgc
+     4021 gctt
+//
+LOCUS       tprKds1__var09          4075 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...mc-jxsklcy
+VERSION     urn.local...mc-jxsklcy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V4              complement(121..171)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS47"
+     V5              complement(187..245)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS46"
+     V2              complement(246..292)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS45"
+     V6              complement(271..294)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS44"
+     V3              complement(305..347)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS43"
+     V6              complement(360..441)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS42"
+     V3              complement(373..393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS48"
+     V3              complement(448..491)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS41"
+     V6              complement(455..519)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS40"
+     V7              complement(676..719)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS39"
+     V2              complement(737..786)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS38"
+     V1              complement(822..868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS37"
+     V4              complement(883..931)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS36"
+     V5              complement(938..983)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS35"
+     V3              complement(1067..1092)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS34"
+     V6              complement(1068..1103)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS33"
+     V3              complement(1109..1141)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS32"
+     V6              complement(1115..1142)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS49"
+     V7              complement(1171..1283)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS31"
+     V2              complement(1314..1359)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS30"
+     V1              complement(1400..1444)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS29"
+     V5              complement(1448..1500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS28"
+     V7              complement(1503..1532)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS27"
+     V3              complement(2277..2318)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS26"
+     V6              complement(2303..2356)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS25"
+     V3              complement(2376..2455)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS24"
+     V6              complement(2378..2431)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS52"
+     V6              complement(2478..2516)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS23"
+     V3              complement(2483..2516)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS50"
+     V7              complement(2576..2589)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS22"
+     V2              complement(2650..2709)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS21"
+     V1              complement(2746..2789)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS20"
+     V5              complement(2850..2868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS54"
+     V6              complement(2888..2959)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS19"
+     V3              complement(2970..3015)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS18"
+     V6              complement(2973..3026)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS53"
+     V7              complement(3074..3135)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS17"
+     V2              complement(3137..3190)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS16"
+     V1              complement(3203..3237)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS15"
+     V4              complement(3282..3323)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS14"
+     V5              complement(3333..3393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS13"
+     V3              complement(3410..3452)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS12"
+     V6              complement(3434..3487)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS11"
+     V3              complement(3498..3551)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS10"
+     V6              complement(3501..3551)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS51"
+     V7              complement(3609..3683)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS9"
+     V2              complement(3684..3739)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS8"
+     V1              complement(3783..3820)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS7"
+     V4              complement(3865..3907)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS6"
+     V5              complement(3919..3990)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS5"
+     V6              complement(4003..4035)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS4"
+     V3              complement(4005..4052)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS3"
+ORIGIN      
+        1 accccgctcc aacgccgatc ctcttacgcg tctcgtcgag gacctactcc attctacccc
+       61 cccccacggc tgtttgtcga acccttttta aagggttcgt tctcgcgcgc tgggcagcac
+      121 gcgcgtgagg cgcctatgcc atcgggagct gcgtttttct tatgccccac gaggggactg
+      181 cggggtatgt cgtgcgtccg catgggtgtg gtatcggtga gaaagacacc ctgaaataca
+      241 ttactagcct gcgatgcgtg caagacaccc ccatacaccg ggaagttgat gtcgactcca
+      301 gccccggctg cggctgcggc tcgggcatag tcgccagaaa gcgtggaatt gtaactacaa
+      361 ccgggaagta gatggctggg actggggctc cgggcagggc tcgggcttgg gtgaaggcgt
+      421 tccaatggac gggcatgtac gcctgcgtcc cataagatgt cattggctgg ggctacggct
+      481 gggagttggg ctcgggctgc gaagtaatag acgggcatgc cgttctctac caaatcaagc
+      541 gacatgcccc tacgaattgc caacgctccg tcacgttctt ctctatcact acattgctgt
+      601 tctcttgtag cttgccttgc tcccagctca gccgaatctc caccttctct aacggactga
+      661 ccactacccc acactcgtaa tacccacaat attctgcctt ccacttcgta gcaggagcat
+      721 agcgtgcaaa cgcggcgctg tggtttcttc ctgctcgggc ggcgcccgtg tttgacttgc
+      781 cctccccgtc agggtggaat tgcgtctttt gcgcgcggct ttccatgctt gaggtttccg
+      841 gcgctaccat cttcggatgc aatgccccgc gcgccggcgc tcacggtgcc attgacgttc
+      901 gctgcattct ctttcttatg ccccacgtct gactgcgcag tcgtgctgca gcatgttatt
+      961 ggtgagaaat actcccccga atatacgcgc acggtggtga ctgaccggac tctcgtgcga
+     1021 aggagagtag gagtctaaaa tcttatcagg ggctccgggt gggactccgg ctgccagggc
+     1081 tcgggcttgg gcgtggacgg gcacgcaacc cataagatgc tggctggggg ttgggctggg
+     1141 ggaaatagac gtgcggcgtg cgttggggcg atacccacaa tatcctgcct tccacttcgt
+     1201 aagagcagca gcaccaggaa ctgcaccagg gaccgcccca ggaactgcac caggagcagc
+     1261 atcgtttttc ttgttcgtac cgcgcctgtg tgcctttgtg cgcgcagcgc gtccctgctg
+     1321 ctggggcgcc cgtgtttgac ttgccctccc agtcggtgtg aggcaggccg cgtctatccc
+     1381 tcagtgcgca tgtcctccct gcttgagggg ttgggcgcca ccattttcat atgcaatgcc
+     1441 ccagatgcag tcgtccttct gcatgggtgt ggtgagaaag acaccctgaa atacattgct
+     1501 ctacttcgta ccaggaactg cagcagcagg gggaacaggg acaccctggg tgaaaagact
+     1561 gcaccatgct aggatgggga atggatatgt ccaaaagtgt gatgctgtgt tgcctgttga
+     1621 gtgtacaacc ctgttatgcc gggtacgtgt ttgtttcccc aaagcttggc gtgtatggag
+     1681 aagcattggg cggtcctgac acggtgggta aagcggtcaa gcaggccgac ggtactaaga
+     1741 ttgctccgaa gatatggtac tacgcgccgc gtaccccgct ttttggcgtg gatataggct
+     1801 atcaggcgga taacggcctg ttgttccggg tgaatttgga tgcggcactc acgcgcctta
+     1861 tgtttcgcag ccagtgtgtg gtgggctatt ccttgcggtt cggctggggg ggggtacgtc
+     1921 tctatcgctt cgggaatcga gtgtagtgca acggtcgatg acgcgcagta cgagccctac
+     1981 acgaaaaatg agcaggggac tactgttgcc tccaacaccg tgttcccgtg cacggtcttg
+     2041 gaggcattgg tgcgtgatcc ggcccttacc gcagattacc tgctttacgg tatgcaaagc
+     2101 tgttacgcaa ttccgctcca tgtgggggtt tcgtattacc ttgccaagcg ctggggtatt
+     2161 gagtgtgcgc ttacggcctc acttggcatt tcaatgcgga cggatgtgcg cgtcccctac
+     2221 gcggtacgca tagggccggt attccgcgtg tagggcctcc ggtgagccgc tctccttccc
+     2281 ataagatggc gttgttggct ggggctgggg gtcgggctcg ggccagggct ttccaatgga
+     2341 cgggcatgta cgtacggtcc tatggaactt cgttgtgggc tgcggctccg ggtagggctg
+     2401 ggactccggc tgcggctccg gctgcttggg catagccgct agacagtgtg gagttcctcc
+     2461 gggcgactgc gagccgagaa gtagatgtca actcgggctg ggggtacggc tcgggcgtgg
+     2521 aacgaggttt tttgtgtgag ggggatgtgc gcgcgtgtct tgttcctgcc tcccacttcg
+     2581 taagagcagg aaccgcacca gggacgacgc cggggaccgc agcagcttgc ttgttcgtac
+     2641 cgccgtacgt gctgggggtt actcctgctg ggacgttgcc gtttggtttg ccctcccagt
+     2701 cggtgttagg ggggctgcgc ctagctccag tgcacgcgtc ctccctgctt gaggggttgg
+     2761 gcgccaccat ttttttcaga tgcaatgccc cgtgaggttt gcgcagtcgt gctctcgcat
+     2821 ggctatgttt ctagcgagaa atactccctc gaatacattg ctggccttcg atgcgggcgg
+     2881 acgtcccaca ccgggaagtg gatgtcggct ggggctcggg cgtgggcttt taggactttg
+     2941 taatggacag gcatgtacgc ctgcgtccta taagatgtcg tcggctgcgg ctggcactgc
+     3001 ggctccggct cgggctcggg cgtggaacga ggttttttgt gtgaagggga tgtgcgcgcg
+     3061 tgtcctgttc ttgtgctcca cttcgtacca ggagcagggg ctgcagcagc agcttttttg
+     3121 ttcgtaccgc cgtacgtgct gtggtttgct cctgcttgga cgacgccctt gctgtctttg
+     3181 ccctcccagt gcgcaccttc cctgcttgat ggcgccacca tcggatgcaa tgcccccgac
+     3241 acgtctgaga agctaaacga gcctccacat tcacgcagtc cgcgcctacg gtgccctgcg
+     3301 ctccgtcttt cttacgcccc acgaggctgg cgcagtcgtg tgcggtcatg gccatgttga
+     3361 gaaatactcc ctgaaataca ttgctggcct gcgatgtgcg tgaggcatcc ccataccggg
+     3421 aagttgatgt tggctgcggc tggggcttgg ggtccggtca ggaccgtgta gtggacgggc
+     3481 atgtacgcct gcatcctata agatgtcgtt gttgactgcg gctgcggctg cggctgcggg
+     3541 tagggctcgg gttttctgag tagacgaggg ttcgtacgtt cgtcttattt ccgcgcgggc
+     3601 atactcagca atattctgcc ttccacttcg taggagcagc aggagcagca gggggcgtgg
+     3661 cctttttgtt cgtaccgccg tacgtgctgg gagttcctgc tggggccttg ccctgactgt
+     3721 ctttgccctc ccagtcggta tgaggcaggt cgcgtctgtc ccttaatgtg tgcctccttg
+     3781 cctgagggct ccggcgccac cagtttcaga tgcaatgccc acggcatcgc ctgagaggct
+     3841 gaacgggtct ccacactcac acagtctgcg cctatgtcgc cattcgctcc gtttttctta
+     3901 tgccccatgg agcgtgcgca gtcgtgcgtc tgcatgtcca tggcattggt gagaaagacg
+     3961 tctttaaaca cattgctggc cttcgatgcg ggcggacgtc ccacaccggg aagttgatgt
+     4021 cggctccggc tcgggctgtg gcatagccgc taacgcacgg ggagtgcacg cgctt
+//
+LOCUS       tprKds1__var14          4024 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...md-jxsklcy
+VERSION     urn.local...md-jxsklcy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V4              complement(121..171)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS47"
+     V5              complement(187..245)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS46"
+     V2              complement(246..292)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS45"
+     V6              complement(271..294)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS44"
+     V3              complement(305..347)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS43"
+     V6              complement(360..441)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS42"
+     V3              complement(373..393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS48"
+     V3              complement(448..491)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS41"
+     V6              complement(455..519)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS40"
+     V7              complement(676..719)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS39"
+     V2              complement(737..786)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS38"
+     V1              complement(822..868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS37"
+     V4              complement(883..931)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS36"
+     V5              complement(938..983)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS35"
+     V3              complement(1067..1092)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS34"
+     V6              complement(1068..1103)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS33"
+     V3              complement(1109..1141)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS32"
+     V6              complement(1115..1142)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS49"
+     V7              complement(1171..1232)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS31"
+     V2              complement(1263..1308)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS30"
+     V1              complement(1349..1393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS29"
+     V5              complement(1397..1449)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS28"
+     V7              complement(1452..1481)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS27"
+     V3              complement(2226..2267)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS26"
+     V6              complement(2252..2305)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS25"
+     V3              complement(2325..2404)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS24"
+     V6              complement(2327..2380)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS52"
+     V6              complement(2427..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS23"
+     V3              complement(2432..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS50"
+     V7              complement(2525..2538)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS22"
+     V2              complement(2599..2658)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS21"
+     V1              complement(2695..2738)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS20"
+     V5              complement(2799..2817)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS54"
+     V6              complement(2837..2908)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS19"
+     V3              complement(2919..2964)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS18"
+     V6              complement(2922..2975)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS53"
+     V7              complement(3023..3084)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS17"
+     V2              complement(3086..3139)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS16"
+     V1              complement(3152..3186)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS15"
+     V4              complement(3231..3272)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS14"
+     V5              complement(3282..3342)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS13"
+     V3              complement(3359..3401)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS12"
+     V6              complement(3383..3436)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS11"
+     V3              complement(3447..3500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS10"
+     V6              complement(3450..3500)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS51"
+     V7              complement(3558..3632)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS9"
+     V2              complement(3633..3688)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS8"
+     V1              complement(3732..3769)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS7"
+     V4              complement(3814..3856)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS6"
+     V5              complement(3868..3939)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS5"
+     V6              complement(3952..3984)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS4"
+     V3              complement(3954..4001)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS3"
+ORIGIN      
+        1 accccgctcc aacgccgatc ctcttacgcg tctcgtcgag gacctactcc attctacccc
+       61 cccccacggc tgtttgtcga acccttttta aagggttcgt tctcgcgcgc tgggcagcac
+      121 gcgcgtgagg cgcctatgcc atcgggagct gcgtttttct tatgccccac gaggggactg
+      181 cggggtatgt cgtgcgtccg catgggtgtg gtatcggtga gaaagacacc ctgaaataca
+      241 ttactagcct gcgatgcgtg caagacaccc ccatacaccg ggaagttgat gtcgactcca
+      301 gccccggctg cggctgcggc tcgggcatag tcgccagaaa gcgtggaatt gtaactacaa
+      361 ccgggaagta gatggctggg actggggctc cgggcagggc tcgggctggg gctggggctt
+      421 tccaatggac gggcatgtac gcctgcgtcc cataagatgt cattggctgg ggctacggct
+      481 gggagttggg ctcgggctgc gaagtaatag acgggcatgc cgttctctac caaatcaagc
+      541 gacatgcccc tacgaattgc caacgctccg tcacgttctt ctctatcact acattgctgt
+      601 tctcttgtag cttgccttgc tcccagctca gccgaatctc caccttctct aacggactga
+      661 ccactacccc acactcgtaa tacccacaat attctgcctt ccacttcgta gcaggagcat
+      721 agcgtgcaaa cgcggcgctg tggtttcttc ctgctcgggc ggcgcccgtg tttgacttgc
+      781 cctccccgtc agggtggaat tgcgtctttt gcgcgcggct ttccatgctt gaggtttccg
+      841 gcgctaccat cttcggatgc aatgccccgc gtgccggcgc tcacggtgcc attgacgttc
+      901 gctgcattct ctttcttatg ccccacgtct gactgcgcag tcgtgctgca gcatgttatt
+      961 ggtgagaaat actcccccga atatacgcgc acggtggtga ctgaccggac tctcgtgcga
+     1021 aggagagtag gagtctaaaa tcttatcagg ggctccgggt gggactccgg ctgccagggc
+     1081 tcgggcttgg gcgtggacgg gcacgcaacc cataagatgt tggctggggg ttgggctggg
+     1141 ggaaatagac gtgcggcgtg cgttggggcg atacccacaa tatcctgcct tccacttcgt
+     1201 aggagcagca tcgtttttct tgttcgtacc gcgcctgtgt gcgtttgtgc gcgcagcgcg
+     1261 tccctgctgc tggggcgccc gtgtttgact tgccctccca gtcggtgtga ggcaggccgc
+     1321 gtctatccct cagtgcgcat gtcctccctg cttgaggggt tgggcgccac cattttcata
+     1381 tgcaatgccc cagatgcagt cgtccttctg catgggtgtg gtgagaaaga caccctgaaa
+     1441 tacattgctc tacttcgtac caggaactgc agcagcaggg ggaacaggga caccctgggt
+     1501 gaaaagactg caccatgcta ggatggggaa tggatatgtc caaaagtgtg atgctgtgtt
+     1561 gcctgttgag tgtacaaccc tgttatgccg ggtacgtgtt tgtttcccca aagcttggcg
+     1621 tgtatggaga agcattgggc ggtcctgaca cggtgggtaa agcggtcaag caggccgacg
+     1681 gtactaagat tgctccgaag atatggtact acgcgccgcg taccccgctt tttggcgtgg
+     1741 atataggcta tcaggcggat aacggcctgt tgttccgggt gaatttggat gcggcactca
+     1801 cgcgccttat gtttcgcagc cagtgtgtgg tgggctattc cttgcggttc ggctgggggg
+     1861 gggtacgtct ctatcgcttc gggaatcgag tgtagtgcaa cggtcgatga cgcgcagtac
+     1921 gagccctaca cgaaaaatga gcaggggact actgttgcct ccaacaccgt gttcccgtgc
+     1981 acggtcttgg aggcattggt gcgtgatccg gcccttaccg cagattacct gctttacggt
+     2041 atgcaaagct gttacgcaat tccgctccat gtgggggttt cgtattacct tgccaagcgc
+     2101 tggggtattg agtgtgcgct tacggcctca cttggcattt caatgcggac ggatgtgcgc
+     2161 gtcccctacg cggtacgcat agggccggta ttccgcgtgt agggcctccg gtgagccgct
+     2221 ctccttccca taagatggcg ttgttggctg gggctggggc tggggctggg gctggggctt
+     2281 tccaatggac gggcatgtac gtacggtcct atggaacttc gttgtgggct gcggctccgg
+     2341 gtagggctgg gactccggct gcggctccgg ctgcttgggc atagccgcta gacagtgtgg
+     2401 agttcctccg ggcgactgcg agccgagaag tagatgtcaa ctcgggctgg gggtacggct
+     2461 cgggcgtgga acgaggtttt ttgtgtgagg gggatgtgcg cgcgtgtctt gttcctgcct
+     2521 cccacttcgt aagagcagga accgcaccag ggacgacgcc ggggaccgca gcagcttgct
+     2581 tgttcgtacc gccgtacgtg ctgggggtta ctcctgctgg gacgttgccg tttggtttgc
+     2641 cctcccagtc ggtgttaggg gggctgcgcc tagctccagt gcacgcgtcc tccctgcttg
+     2701 aggggttggg cgccaccatt tttttcagat gcaatgcccc gtgaggtttg cgcagtcgtg
+     2761 ctctcgcatg gctatgtttc tagcgagaaa tactccctcg aatacattgc tggccttcga
+     2821 tgcgggcgga cgtcccacac cgggaagtgg atgtcggctg gggctcgggc gtgggctttt
+     2881 aggactttgt aatggacagg catgtacgcc tgcgtcctat aagatgtcgt cggctgcggc
+     2941 tggcactgcg gctccggctc gggctcgggc gtggaacgag gttttttgtg tgaaggggat
+     3001 gtgcgcgcgt gtcctgttct tgtgctccac ttcgtaccag gagcaggggc tgcagcagca
+     3061 gcttttttgt tcgtaccgcc gtacgtgctg tggtttgctc ctgcttggac gacgcccttg
+     3121 ctgtctttgc cctcccagtg cgcaccttcc ctgcttgatg gcgccaccat cggatgcaat
+     3181 gcccccgaca cgtctgagaa gctaaacgag cctccacatt cacgcagtcc gcgcctacgg
+     3241 tgccctgcgc tccgtctttc ttacgcccca cgaggctggc gcagtcgtgt gcggtcatgg
+     3301 ccatgttgag aaatactccc tgaaatacat tgctggcctg cgatgtgcgt gaggcatccc
+     3361 cataccggga agttgatgtt ggctgcggct ggggcttggg gtccggtcag gaccgtgtag
+     3421 tggacgggca tgtacgcctg catcctataa gatgtcgttg ttgactgcgg ctgcggctgc
+     3481 ggctgcgggt agggctcggg ttttctgagt agacgagggt tcgtacgttc gtcttatttc
+     3541 cgcgcgggca tactcagcaa tattctgcct tccacttcgt aggagcagca ggagcagcag
+     3601 ggggcgtggc ctttttgttc gtaccgccgt acgtgctggg agttcctgct ggggccttgc
+     3661 cctgactgtc tttgccctcc cagtcggtat gaggcaggtc gcgtctgtcc cttaatgtgt
+     3721 gcctccttgc ctgagggctc cggcgccacc agtttcagat gcaatgccca cggcatcgcc
+     3781 tgagaggctg aacgggtctc cacactcaca cagtctgcgc ctatgtcgcc attcgctccg
+     3841 tttttcttat gccccatgga gcgtgcgcag tcgtgcgtct gcatgtccat ggcattggtg
+     3901 agaaagacgt ctttaaacac attgctggcc ttcgatgcgg gcggacgtcc cacaccggga
+     3961 agttgatgtc ggctccggct cgggctgtgg catagccgct aacgcacggg gagtgcacgc
+     4021 gctt
+//
+LOCUS       tprKds1__var16          3496 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   NZ_CP124554
+VERSION     NZ_CP124554.3
+KEYWORDS    .
+SOURCE      Treponema pallidum
+  ORGANISM  Treponema pallidum
+            Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia;
+            Spirochaetales; Treponemataceae; Treponema.
+COMMENT     ##Genome-Annotation-Data-START##
+            CDSs (total)                      :: 985
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            CDSs (with protein)               :: 970
+            Annotation Name                   :: GCF_029958545.3-RS_2024_11_19
+            Annotation Provider               :: NCBI RefSeq
+            Genes (total)                     :: 1,037
+            Annotation Date                   :: 11/19/2024 03:59:47
+            tRNAs                             :: 43
+            Pseudo Genes (incomplete)         :: 6 of 15
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            rRNAs                             :: 2, 2, 2 (5S, 16S, 23S)
+            Genes (RNA)                       :: 52
+            ncRNAs                            :: 3
+            Pseudo Genes (multiple problems)  :: 1 of 15
+            Annotation Software revision      :: 6.9
+            Pseudo Genes (total)              :: 15
+            Pseudo Genes (frameshifted)       :: 6 of 15
+            Pseudo Genes (internal stop)      :: 1 of 15
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Genes (coding)                    :: 970
+            complete rRNAs                    :: 2, 2, 2 (5S, 16S, 23S)
+            Pseudo Genes (ambiguous residues) :: 3 of 15
+            CDSs (without protein)            :: 15
+            ##Genome-Annotation-Data-END##
+            ##Genome-Assembly-Data-START##
+            Sequencing Technology :: Illumina
+            Assembly Method       :: Unicycler v. v0.4.4
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     accession       <1..>3496
+                     /label="CP124554.3"
+     source          <1..>3496
+                     /organism="Treponema pallidum"
+                     /mol_type="genomic DNA"
+                     /strain="P-22-20168"
+                     /isolation_source="throat"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:160"
+                     /geo_loc_name="USA: Seattle, Washington"
+                     /lat_lon="47.608013 N 122.335167 W"
+                     /collection_date=2022
+                     /collected_by="Mathew Golden"
+                     /label="source Treponema pallidum"
+     V4              complement(121..171)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS47"
+     V5              complement(187..245)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS46"
+     V2              complement(246..292)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS45"
+     V6              complement(271..294)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS44"
+     V3              complement(305..347)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS43"
+     V6              complement(360..441)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS42"
+     V3              complement(373..393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS48"
+     V3              complement(448..491)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS41"
+     V6              complement(455..519)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS40"
+     V7              complement(676..719)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS39"
+     V2              complement(737..786)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS38"
+     V1              complement(822..868)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS37"
+     V4              complement(883..931)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS36"
+     V5              complement(938..983)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS35"
+     V3              complement(1067..1092)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS34"
+     V6              complement(1068..1103)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS33"
+     V3              complement(1109..1141)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS32"
+     V6              complement(1115..1142)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS49"
+     V7              complement(1171..1232)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS31"
+     V2              complement(1263..1308)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS30"
+     V1              complement(1349..1393)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS29"
+     V5              complement(1397..1449)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS28"
+     V7              complement(1452..1481)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS27"
+     V3              complement(2226..2267)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS26"
+     V6              complement(2252..2305)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS25"
+     V3              complement(2325..2404)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS24"
+     V6              complement(2327..2380)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS52"
+     V6              complement(2427..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS23"
+     V3              complement(2432..2465)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS50"
+     V7              complement(2525..2538)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS22"
+     V2              complement(2599..2658)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS21"
+     V1              complement(2695..2738)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS20"
+     V5              complement(2799..2817)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS54"
+     V6              complement(2837..2908)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS19"
+     V1              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS15"
+     V2              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS16"
+     V3              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS12"
+     V3              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS18"
+     V4              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS14"
+     V5              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS13"
+     V6              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS11"
+     V6              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS53"
+     V7              2914^2915
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS17"
+     V3              complement(2919..2972)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS10"
+     V6              complement(2922..2972)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS51"
+     V7              complement(3030..3104)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS9"
+     V2              complement(3105..3160)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V2-DS8"
+     V1              complement(3204..3241)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V1-DS7"
+     V4              complement(3286..3328)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V4-DS6"
+     V5              complement(3340..3411)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V5-DS5"
+     V6              complement(3424..3456)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS4"
+     V3              complement(3426..3473)
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V3-DS3"
+ORIGIN      
+        1 accccgctcc aacgccgatc ctcttacgcg tctcgtcgag gacctactcc attctacccc
+       61 cccccacggc tgtttgtcga acccttttta aagggttcgt tctcgcgcgc tgggcagcac
+      121 gcgcgtgagg cgcctatgcc atcgggagct gcgtttttct tatgccccac gaggggactg
+      181 cggggtatgt cgtgcgtccg catgggtgtg gtatcggtga gaaagacacc ctgaaataca
+      241 ttactagcct gcgatgcgtg caagacaccc ccatacaccg ggaagttgat gtcgactcca
+      301 gccccggctg cggctgcggc tcgggcatag tcgccagaaa gcgtggaatt gtaactacaa
+      361 ccgggaagta gatggctggg actggggctc cgggcagggc tcgggcttgg gtgaaggcgt
+      421 tccaatggac gggcatgtac gcctgcgtcc cataagatgt cattggctgg ggctacggct
+      481 gggagttggg ctcgggctgc gaagtaatag acgggcatgc cgttctctac caaatcaagc
+      541 gacatgcccc tacgaattgc caacgctccg tcacgttctt ctctatcact acattgctgt
+      601 tctcttgtag cttgccttgc tcccagctca gccgaatctc caccttctct aacggactga
+      661 ccactacccc acactcgtaa tacccacaat attctgcctt ccacttcgta gcaggagcat
+      721 agcgtgcaaa cgcggcgctg tggtttcttc ctgctcgggc ggcgcccgtg tttgacttgc
+      781 cctccccgtc agggtggaat tgcgtctttt gcgcgcggct ttccatgctt gaggtttccg
+      841 gcgctaccat cttcggatgc aatgccccgc gtgccggcgc tcacggtgcc attgacgttc
+      901 gctgcattct ctttcttatg ccccacgtct gactgcgcag tcgtgctgca gcatgttatt
+      961 ggtgagaaat actcccccga atatacgcgc acggtggtga ctgaccggac tctcgtgcga
+     1021 aggagagtag gagtctaaaa tcttatcagg ggctccgggt gggactccgg ctgccagggc
+     1081 tcgggcttgg gcgtggacgg gcacgcaacc cataagatgt tggctggggg ttgggctggg
+     1141 ggaaatagac gtgcggcgtg cgttggggcg atacccacaa tatcctgcct tccacttcgt
+     1201 aggagcagca tcgtttttct tgttcgtacc gcgcctgtgt gcgtttgtgc gcgcagcgcg
+     1261 tccctgctgc tggggcgccc gtgtttgact tgccctccca gtcggtgtga ggcaggccgc
+     1321 gtctatccct cagtgcgcat gtcctccctg cttgaggggt tgggcgccac cattttcata
+     1381 tgcaatgccc cagatgcagt cgtccttctg catgggtgtg gtgagaaaga caccctgaaa
+     1441 tacattgctc tacttcgtac caggaactgc agcagcaggg ggaacaggga caccctgggt
+     1501 gaaaagactg caccatgcta ggatggggaa tggatatgtc caaaagtgtg atgctgtgtt
+     1561 gcctgttgag tgtacaaccc tgttatgccg ggtacgtgtt tgtttcccca aagcttggcg
+     1621 tgtatggaga agcattgggc ggtcctgaca cggtgggtaa agcggtcaag caggccgacg
+     1681 gtactaagat tgctccgaag atatggtact acgcgccgcg taccccgctt tttggcgtgg
+     1741 atataggcta tcaggcggat aacggcctgt tgttccgggt gaatttggat gcggcactca
+     1801 cgcgccttat gtttcgcagc cagtgtgtgg tgggctattc cttgcggttc ggctgggggg
+     1861 gggtacgtct ctatcgcttc gggaatcgag tgtagtgcaa cggtcgatga cgcgcagtac
+     1921 gagccctaca cgaaaaatga gcaggggact actgttgcct ccaacaccgt gttcccgtgc
+     1981 acggtcttgg aggcattggt gcgtgatccg gcccttaccg cagattacct gctttacggt
+     2041 atgcaaagct gttacgcaat tccgctccat gtgggggttt cgtattacct tgccaagcgc
+     2101 tggggtattg agtgtgcgct tacggcctca cttggcattt caatgcggac ggatgtgcgc
+     2161 gtcccctacg cggtacgcat agggccggta ttccgcgtgt agggcctccg gtgagccgct
+     2221 ctccttccca taagatggcg ttgttggctg gggctggggc tggggctggg gctggggctt
+     2281 tccaatggac gggcatgtac gtacggtcct atggaacttc gttgtgggct gcggctccgg
+     2341 gtagggctgg gactccggct gcggctccgg ctgcttgggc atagccgcta gacagtgtgg
+     2401 agttcctccg ggcgactgcg agccgagaag tagatgtcaa ctcgggctgg gggtacggct
+     2461 cgggcgtgga acgaggtttt ttgtgtgagg gggatgtgcg cgcgtgtctt gttcctgcct
+     2521 cccacttcgt aagagcagga accgcaccag ggacgacgcc ggggaccgca gcagcttgct
+     2581 tgttcgtacc gccgtacgtg ctgggggtta ctcctgctgg gacgttgccg tttggtttgc
+     2641 cctcccagtc ggtgttaggg gggctgcgcc tagctccagt gcacgcgtcc tccctgcttg
+     2701 aggggttggg cgccaccatt tttttcagat gcaatgcccc gtgaggtttg cgcagtcgtg
+     2761 ctctcgcatg gctatgtttc tagcgagaaa tactccctcg aatacattgc tggccttcga
+     2821 tgcgggcgga cgtcccacac cgggaagtgg atgtcggctg gggctcgggc gtgggctttt
+     2881 aggactttgt aatggacagg catgtacgcc tgcgtcctat aagatgtcgt tgttgactgc
+     2941 ggctgcggct gcggctgcgg gtagggctcg ggttttctga gtagacgagg gttcgtacgt
+     3001 tcgtcttatt tccgcgcggg catactcagc aatattctgc cttccacttc gtaggagcag
+     3061 caggagcagc agggggcgtg gcctttttgt tcgtaccgcc gtacgtgctg ggagttcctg
+     3121 ctggggcctt gccctgactg tctttgccct cccagtcggt atgaggcagg tcgcgtctgt
+     3181 cccttaatgt gtgcctcctt gcctgagggc tccggcgcca ccagtttcag atgcaatgcc
+     3241 cacggcatcg cctgagaggc tgaacgggtc tccacactca cacagtctgc gcctatgtcg
+     3301 ccattcgctc cgtttttctt atgccccatg gagcgtgcgc agtcgtgcgt ctgcatgtcc
+     3361 atggcattgg tgagaaagac gtctttaaac acattgctgg ccttcgatgc gggcggacgt
+     3421 cccacaccgg gaagttgatg tcggctccgg ctcgggctgt ggcatagccg ctaacgcacg
+     3481 gggagtgcac gcgctt
+//
+LOCUS       tprKds2__var01           306 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...mj-jxsklcz
+VERSION     urn.local...mj-jxsklcz
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V6              28..55
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS1"
+     V7              53..104
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS2"
+ORIGIN      
+        1 cggggtgttt tctttcttca tctgagcaag ccctaccccc agccatttac ttccccctgc
+       61 tgctcctggt acgaagtgga gcaaggaata ttgtgggtat tacgagtgtg gggtagggtc
+      121 agtccgttag agaaggtgga gattcggctg agctgggagc aaggcaagct acaagagaac
+      181 agcaatgtag tgatagagaa gaacgtgacg gagcgttgtc aattcgtagg gactgtccct
+      241 cggtgggtgt gctcacgcga gggacagggg ttcgtccgaa gcgggttgct tagaaatatc
+      301 cactaa
+//
+LOCUS       tprKds2__var02           307 bp    DNA     linear   UNA 29-SEP-2025
+DEFINITION  .
+ACCESSION   urn.local...mg-jxsklcy
+VERSION     urn.local...mg-jxsklcy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     V6              28..55
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V6-DS1"
+     V7              53..104
+                     /codon_start=1
+                     /GFF_Attribute="variable"
+                     /modified_by="Nicole"
+                     /label="V7-DS2"
+ORIGIN      
+        1 cggggtgttt tctttcttca tctgagcaag ccctaccccc agccatttac ttccccctgc
+       61 tgctcctgct acgaagtgga gcaaggaata ttgtgggtat tacgagtgtg gggtagtggt
+      121 cagtccgtta gagaaggtgg agattcggct gagctgggag caaggcaagc tacaagagaa
+      181 cagcaatgta gtgatagaga agaacgtgac ggagcgttgt caattcgtag ggactgtccc
+      241 tcggtgggtg tgctcacgcg agggacaggg gttcgtccga agcgggttgc ttagaaatat
+      301 ccactaa
+//
